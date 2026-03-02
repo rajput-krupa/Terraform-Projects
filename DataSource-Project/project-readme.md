@@ -13,7 +13,7 @@ This project demonstrates how to use Terraform Data Sources to automate cloud pr
 
 Instead of creating new VPCs or subnets, we are referencing existing ones. We also use a pre-existing Linux AMI to launch EC2 instances dynamically.
 
-<img width="1000" height="550" alt="Screenshot 2026-03-02 at 12 13 32 PM" src="https://github.com/user-attachments/assets/7de3a1c9-2e74-4689-8084-60e6a39f2021" />
+<img width="1000" height="790" alt="Screenshot 2026-03-02 at 12 13 32 PM" src="https://github.com/user-attachments/assets/7de3a1c9-2e74-4689-8084-60e6a39f2021" />
 
 ## Terraform Data Sources Used
 In this project, we use data sources to reference existing resources:
